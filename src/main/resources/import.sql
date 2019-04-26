@@ -1,0 +1,2 @@
+insert into movie values(100,'Avengers Endgame', 'Joe & Anthony Russo','Superhero','Latest installment in the MCU universe');
+insert into movie values(200,'Toy Story', 'John Lasseter','Animation','Story about toys when their owner ain´t around');
